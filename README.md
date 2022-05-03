@@ -1,5 +1,5 @@
 # Endsem_knn
-It consists of stock price prediction using knn model
+It consists of stock price prediction using knn model.
 Important libraries are imported and data is downloaded and loaded into notebook from yahoo finance website.
 Data is prepared and explainatory varibables are created.
 Target variables are defined that our model will predict.
